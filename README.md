@@ -1,4 +1,4 @@
-# Insights from Exploratory Data Analysis
+# Energy Insights from Exploratory Data Analysis
 
 Using Exploratory Data Analysis to gain insights on energy consumption around the world through Python code and Tableau visualizations.
 
